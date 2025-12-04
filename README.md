@@ -13,7 +13,8 @@
 
 
 ## Dashboard Preview
-<img width="1196" height="950" alt="image" src="https://github.com/user-attachments/assets/e1d05ab8-eb40-40ba-959b-9fcb2f4bdae4" />
+<img width="1200" height="949" alt="image" src="https://github.com/user-attachments/assets/1f5a7454-b095-458a-8260-d3e9b29a0330" />
+
 
 
 ## Insight
